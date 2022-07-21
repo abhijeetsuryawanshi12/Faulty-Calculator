@@ -1,4 +1,5 @@
 # faulty calculator
+# 1st VS code experience
 print("Enter your first number")
 num1 = int(input())
 print("Enter your second number")
